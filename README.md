@@ -1,1 +1,3 @@
-# StreamingPlatform-Python
+Project Overview: Netflix Streaming Platform Dataset
+
+Welcome to the Netflix Streaming Platform Dataset project! 🍿🎬 Netflix is one of the most popular media and video streaming platforms. They have over 8000 movies or tv shows available on their platform, till mid-2021, they have over 200M Subscribers globally. The particular business case focuses and provides insightful information on 8807 shows or movies on the platform. This repository contains a comprehensive information, capturing details about Netflix movies and TV shows. Information on release dates, platform releases, cast, directors, ratings, genres, and more. I've extracted valuable insights from the dataset, addressing questions on the popularity of movie genres, the optimal timing for TV show launches, and the duration between movie releases and their addition to Netflix and mucg more. 📊🎬
